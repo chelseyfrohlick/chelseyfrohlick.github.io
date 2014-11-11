@@ -241,5 +241,14 @@ label {
 }
 
 
-
-
+.text-404 a{
+	text-decoration:underline;
+	text-transform:uppercase;
+	font-weight:700;
+	color:#000;
+}
+	
+.text-404 a:hover{
+	text-decoration:line-through;
+}
+	
