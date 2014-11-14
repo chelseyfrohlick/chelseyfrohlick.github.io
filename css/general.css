@@ -158,4 +158,97 @@ p{
 .text-404 a:hover{
 	text-decoration:line-through;
 }
+
+
+/* MEDIA QUERRIES */
+
+
+@media (max-width: 560px){
+	
+	.nav-item{
+		font-size:13px;
+		margin-left: 4px;
+	}
+	
+	.logo{
+		width:13%;
+	}
+	
+	p{
+		width: 60%;
+		font-size:14px;
+		line-height:20px;
+	}
+	
+	
+	
+}
+
+
+
+
+
+
+
+@media (max-width: 350px){
+	
+	.nav-item{
+		float:none;
+		display:inline-block;
+		padding: 0 0;
+		text-align:center;
+		margin-left:30px;
+		margin-top: 5px;
+		font-size:12px;
+	}
+	
+	
+	.logo{
+		width: 15%;
+		display: block;
+		margin: auto auto;
+		
+		
+	}
+	
+	p{
+		width: 70%;
+		font-size:14px;
+		line-height:20px;
+	}
+	
+	h1{
+		font-size:40px;
+	}
+	
+	
+	
+}
+
+@media (max-width: 280px){
+	
+	.nav-item{
+		margin-left:5px;
+		font-size:11px;
+	}
+	
+	
+	.logo{
+		width: 15%;
+		
+	}
+	
+	h1{
+		font-size:30px;
+	}
+	
+	p{
+		width: 80%;
+		font-size:12px;
+		line-height:20px;
+	}
+	
+	
+	
+}
 	
