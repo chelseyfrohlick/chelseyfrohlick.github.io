@@ -49,6 +49,10 @@ margin: 0 0;
 display: block;
 }
 
+.portfolio-piece img {
+width: 100%;
+}
+
 
 p{
 	width: 45%;
