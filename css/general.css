@@ -110,8 +110,8 @@ p{
 }
 
 .social-diamond{
-    height: 65px; 
-    width: 65px; 
+    height: 60px; 
+    width: 60px; 
     background-color: #FFFFFF; 
     border-radius: 0px; 
     -webkit-transform: rotate(45deg); 
@@ -127,7 +127,7 @@ p{
 	top: 0;
 	width: 100%;
 	text-align: center;
-	padding-top: 16.5px;
+	padding-top:14.5px;
 }
 
 .fa{
