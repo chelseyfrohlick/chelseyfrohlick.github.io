@@ -47,11 +47,9 @@ margin: 0 0;
 
 .portfolio-piece img {
 display: block;
-}
-
-.portfolio-piece img {
 width: 100%;
 }
+
 
 
 p{
@@ -99,6 +97,52 @@ p{
 	text-align:center;
 	padding-top: 4em;
 }
+
+.social{
+	margin-top: 11em;
+}
+
+.social-item {
+	position: relative;
+	margin-top: 10em;
+	margin-right: 2em;
+	margin-left: 2em;
+}
+
+.social-diamond{
+    height: 65px; 
+    width: 65px; 
+    background-color: #FFFFFF; 
+    border-radius: 0px; 
+    -webkit-transform: rotate(45deg); 
+    transform: rotate(45deg); 
+    border-top: 2.8px solid #000000; 
+    border-left: 2.8px solid #000000; 
+    border-right: 2.8px solid #000000; 
+    border-bottom: 2.8px solid #000000; 
+}
+
+.text-social {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	text-align: center;
+	padding-top: 16.5px;
+}
+
+.fa{
+	text-decoration:none;
+	color: #000000;
+}
+
+.fa:hover,
+	active,
+	visited{
+	opacity: .5;
+}
+	
+
+
 
 
 
@@ -172,7 +216,17 @@ p{
 }
 
 
+
+
+
 /* MEDIA QUERRIES */
+
+@media (max-width: 1220px){
+
+
+
+
+}
 
 
 @media (max-width: 560px){
