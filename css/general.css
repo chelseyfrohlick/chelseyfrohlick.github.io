@@ -361,13 +361,9 @@ p{
 
 @media (max-width: 250px){
 	
-
-	.social-diamond{
-		display:none;	
-}
-
-
-	.social-diamond fa{
-		padding: 0 0;
-		margin: 0 0;
+	.text-social {
+	
+		padding-top:14.5px;
+		padding-left: 10px;
 	}
+}
