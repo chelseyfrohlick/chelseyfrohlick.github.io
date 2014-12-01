@@ -79,7 +79,12 @@ nav a:hover{
 }
 
 .portfolio-piece:hover img{
-	top:-5em;
+	top:-2em;
+}
+
+.portfolio h3{
+	font-weight:lighter;
+	font-size: 20px;
 }
 
 
