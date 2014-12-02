@@ -1,0 +1,21 @@
+/* TEAM */
+
+Designer & Developer: Chelsey Frohlick
+Location: Ottawa, Canada
+
+
+
+/* THANKS */
+
+Thanks to the awesome people that make the interwebz and Thomas Bradely for all his help!
+
+
+/* CREDIT */
+
+lightbox
+
+/* SITE */
+Last update: 2014/12/02
+Standards: HTML5, CSS3
+Components:Jquery, Javascript, CSS, HTML
+Software: Adobe, 

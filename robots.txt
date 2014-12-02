@@ -1,0 +1,6 @@
+Sitemap: http://chelseyfrohlick.ca/sitemap.xml
+
+User-agent: *
+
+Disallow: /tmp/
+Disallow: /assets/
